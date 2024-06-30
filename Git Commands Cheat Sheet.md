@@ -34,8 +34,8 @@ ssh -T git@github.com
 
 5. **Configuring Git to Use SSH:** Finally, configure Git to use SSH for authentication:
 ```
-git config --global user.name "Your Name" 
-git config --global user.email "you@example.com" 
+git config --global user.name "jung1230" 
+git config --global user.email "alanchen20072@gmail.com" 
 git config --global core.sshCommand "ssh -i <location of id_rsa>"
 // eg. git config --global core.sshCommand "ssh -i ~/.ssh/id_rsa"
 

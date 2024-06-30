@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Commands Cheat Sheet.md",
+                "file": "Pointer.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Commands Cheat Sheet.md",
+                "file": "Pointer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Commands Cheat Sheet.md",
+                "file": "Pointer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Commands Cheat Sheet.md"
+                "file": "Pointer.md"
               }
             }
           }
@@ -149,11 +149,11 @@
   },
   "active": "4ae043ec98d4bdb1",
   "lastOpenFiles": [
+    "LeetCode.md",
+    "Pointer.md",
+    "Stanford Reinforcement Learning.md",
     "Git Commands Cheat Sheet.md",
     "Welcome.md",
-    "Stanford Reinforcement Learning.md",
-    "Pointer.md",
-    "Object-Oriented Programming in C++.md",
-    "LeetCode.md"
+    "Object-Oriented Programming in C++.md"
   ]
 }
