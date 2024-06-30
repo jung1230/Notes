@@ -14,6 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "AI and Machine Learning Essentials.md",
+
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +87,9 @@
             "state": {
               "type": "backlink",
               "state": {
+
                 "file": "AI and Machine Learning Essentials.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +106,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+
                 "file": "AI and Machine Learning Essentials.md",
+
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +132,7 @@
               "type": "outline",
               "state": {
                 "file": "AI and Machine Learning Essentials.md"
+
               }
             }
           }
@@ -149,6 +155,9 @@
   },
   "active": "d85a94403c870d5e",
   "lastOpenFiles": [
+    "LeetCode.md",
+    "Pointer.md",
+    "Stanford Reinforcement Learning.md",
     "Git Commands Cheat Sheet.md",
     "AI and Machine Learning Essentials.md",
     "Object-Oriented Programming in C++.md",
@@ -158,5 +167,6 @@
     "Pegatron/sprint 2.md",
     "Pegatron",
     "Welcome.md"
+
   ]
 }
